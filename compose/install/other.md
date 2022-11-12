@@ -60,6 +60,6 @@ When asked if you want to allow this app to make changes to your device, click *
 4.  Test the installation.
 
     ```console
-    $ docker compose version
+    $ docker-compose version
     Docker Compose version {{site.compose_version}}
     ```
